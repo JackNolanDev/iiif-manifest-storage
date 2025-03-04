@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64",
+    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json",
     "type": "Manifest",
     "label": {
         "en": [
@@ -88,7 +88,7 @@
     },
     "items": [
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/0",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/0",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -104,14 +104,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/0/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/0/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/0/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/0/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/0",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/0",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.1.JPG",
                                 "type": "Image",
@@ -123,7 +123,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/1",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/1",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -139,14 +139,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/1/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/1/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/1/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/1/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/1",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/1",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.4.JPG",
                                 "type": "Image",
@@ -158,7 +158,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/2",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/2",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -174,14 +174,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/2/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/2/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/2/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/2/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/2",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/2",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.5.JPG",
                                 "type": "Image",
@@ -193,7 +193,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/3",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/3",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -209,14 +209,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/3/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/3/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/3/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/3/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/3",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/3",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.2.JPG",
                                 "type": "Image",
@@ -228,7 +228,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/4",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/4",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -244,14 +244,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/4/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/4/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/4/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/4/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/4",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/4",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.3.JPG",
                                 "type": "Image",
@@ -263,7 +263,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/5",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/5",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -279,14 +279,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/5/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/5/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/5/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/5/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/5",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/5",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.6.JPG",
                                 "type": "Image",
@@ -298,7 +298,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/6",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/6",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -314,14 +314,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/6/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/6/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/6/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/6/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/6",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/6",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.8.JPG",
                                 "type": "Image",
@@ -333,7 +333,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/7",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/7",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -349,14 +349,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/7/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/7/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/7/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/7/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/7",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/7",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.11.JPG",
                                 "type": "Image",
@@ -368,7 +368,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/8",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/8",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -384,14 +384,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/8/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/8/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/8/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/8/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/8",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/8",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.S2000.9.JPG",
                                 "type": "Image",
@@ -403,7 +403,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/9",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/9",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -419,14 +419,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/9/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/9/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/9/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/9/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/9",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/9",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.N69.38.1.JPG",
                                 "type": "Image",
@@ -438,7 +438,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/10",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/10",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -454,14 +454,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/10/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/10/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/10/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/10/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/10",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/10",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.N69.38.2.JPG",
                                 "type": "Image",
@@ -473,7 +473,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/11",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/11",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -489,14 +489,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/11/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/11/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/11/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/11/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/11",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/11",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.N69.38.9.JPG",
                                 "type": "Image",
@@ -508,7 +508,7 @@
             ]
         },
         {
-            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/12",
+            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/12",
             "type": "Canvas",
             "label": {
                 "en": [
@@ -524,14 +524,14 @@
             ],
             "items": [
                 {
-                    "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/12/annotation-page",
+                    "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/12/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/12/annotation/0",
+                            "id": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/12/annotation/0",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://personal-museum.vercel.app/api/manifest/009ebbf4-08e1-5867-9b92-e8474713fb64/canvas/12",
+                            "target": "https://raw.githubusercontent.com/JackNolanDev/iiif-manifest-storage/refs/heads/main/test-manifest-1.json/canvas/12",
                             "body": {
                                 "id": "https://museum.doaks.org/Media/images/BZ.1967.8.N69.38.6.JPG",
                                 "type": "Image",
